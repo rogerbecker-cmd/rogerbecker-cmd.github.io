@@ -7,9 +7,9 @@ lang: de
 
 # Impressum
 
-Roger Becker
-Oberfeldstrasse 30
-8586 Riedt b. Erlen
+Roger Becker  
+Oberfeldstrasse 30  
+8586 Riedt b. Erlen  
 Schweiz
 
 E-Mail: erdwind@live.de

@@ -19,10 +19,10 @@ crash reports by itself.
 
 ## 1. Controller
 
-Roger Becker
-Oberfeldstrasse 30
-8586 Riedt b. Erlen
-Switzerland
+Roger Becker  
+Oberfeldstrasse 30  
+8586 Riedt b. Erlen  
+Switzerland  
 Email: erdwind@live.de
 
 ## 2. Data MailArchiv processes on your Mac

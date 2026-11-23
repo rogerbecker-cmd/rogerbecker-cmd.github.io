@@ -19,10 +19,10 @@ Analyse- oder Tracking-Werkzeuge und keine Absturzberichte, die die App selbst v
 
 ## 1. Verantwortlicher
 
-Roger Becker
-Oberfeldstrasse 30
-8586 Riedt b. Erlen
-Schweiz
+Roger Becker  
+Oberfeldstrasse 30  
+8586 Riedt b. Erlen  
+Schweiz  
 E-Mail: erdwind@live.de
 
 ## 2. Welche Daten MailArchiv auf Ihrem Mac verarbeitet
