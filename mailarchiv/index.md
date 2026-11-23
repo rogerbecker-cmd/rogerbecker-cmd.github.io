@@ -24,6 +24,7 @@ MailArchiv sichert Ihre E-Mails dauerhaft als PDF – auf Ihrem Mac oder in Ihre
 1. Konto hinzufügen: Vorlagen für iCloud Mail, Gmail, GMX, WEB.DE, mailbox.org, Posteo, IONOS, STRATO, Host Europe und Yahoo – oder jeden anderen IMAP-Server von Hand eintragen.
 2. Ordner auswählen, die gesichert werden sollen.
 3. Archivierung starten – oder automatisch nach Zeitplan laufen lassen.
+
 Ab dem zweiten Lauf holt MailArchiv nur noch neue Nachrichten.
 
 ## Funktionen
